@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26143" started-at="2020-09-18T02:55:27Z" finished-at="2020-09-18T02:55:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26143" started-at="2020-09-18T02:55:27Z" finished-at="2020-09-18T02:55:53Z">
+      <class name="test.ClearStatusTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.ClearStatusTest@54c562f7]" name="setUp" is-config="true" duration-ms="5608" started-at="2020-09-17T22:55:27Z" finished-at="2020-09-17T22:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="channelPageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.ClearStatusTest@54c562f7]" name="channelPageTest" duration-ms="19460" started-at="2020-09-17T22:55:34Z" data-provider="info" finished-at="2020-09-17T22:55:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aminny570@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amin308101]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[qatestingchannel]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[welcome to qa automation]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- channelPageTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.ClearStatusTest@54c562f7]" name="TearDown" is-config="true" duration-ms="0" started-at="2020-09-17T22:55:53Z" finished-at="2020-09-17T22:55:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- test.ClearStatusTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
